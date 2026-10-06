@@ -1,0 +1,1 @@
+"""Designer color tools Streamlit application."""
